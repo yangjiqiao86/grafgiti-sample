@@ -1,2 +1,3 @@
 # grafgiti-sample
-一个涂鸦的小测试
+
+- 涂鸦墙：[点击详情](https://github.com/mohebifar/grafgiti)
